@@ -9,7 +9,8 @@ Birthday Card App é um aplicativo Android simples que exibe uma interface de us
 - Assinatura personalizada.
 
 ## Screenshot
-![Captura de Tela](Screenshot.png) 
+<img src="Screenshot.png" alt="Captura de Tela" width="400" height="300">
+
 
 ## Pré-requisitos
 

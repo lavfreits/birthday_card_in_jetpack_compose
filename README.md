@@ -1,12 +1,15 @@
 # Birthday Card App
 
-MyApplication é um aplicativo Android simples que exibe uma interface de usuário básica com texto e imagens usando Jetpack Compose. Este projeto foi criado como parte de um aprendizado sobre como construir layouts básicos com Kotlin e Compose.
+Birthday Card App é um aplicativo Android simples que exibe uma interface de usuário básica com texto e imagens usando Jetpack Compose. Este projeto foi criado como parte de um aprendizado sobre como construir layouts básicos com Kotlin e Compose.
 
 ## Funcionalidades
 
 - Exibição de uma imagem de fundo.
 - Exibição de uma mensagem de feliz aniversário.
 - Assinatura personalizada.
+
+## Screenshot
+![Captura de Tela](Screenshot.png) 
 
 ## Pré-requisitos
 
